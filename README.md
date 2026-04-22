@@ -19,7 +19,6 @@ In line with modern development workflows, the coding process followed a **"Vibe
 
 ## 📺 Video Showcase
 You can see these animations in action in my full video on YouTube:
-**[Watch the Video: Mathematics in Scientific Deep Learning]**
 https://youtu.be/G8nD9NkgMPA?si=lFgu_zpejn_TMqal
 
 ## 📂 Repository Structure
