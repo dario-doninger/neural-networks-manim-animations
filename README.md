@@ -1,4 +1,4 @@
-# Mathematics in Deep Learning: Mathematical Visualizations
+# Animations on the Mathematics behind Deep Learning
 
 This repository contains a collection of animations built with **Manim (Python)**. These visualizations were originally developed as part of my **Final Graduation Project** for the Bachelor’s Degree in **Mathematical Engineering** at **Politecnico di Milano**. The project culminated in a video essay about Mathematics in Artificial Intelligence, where I explored **Scientific Deep Learning** in depth (specifically, how standard Neural Networks and Physics-Informed Neural Networks work from a mathematical perspective).
 
