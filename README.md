@@ -22,15 +22,15 @@ https://youtu.be/G8nD9NkgMPA?si=lFgu_zpejn_TMqal
 ## Repository Structure
 Animations included in this repository, along with their corresponding timestamps in the YouTube video:
 * **[01_neural_network_intro.py](./animations/01_neural_network_intro.py)** *(Video: 00:30 - 01:15)*
-The initial Neural Network animation, showcasing the architecture and the basic mathematical flow of data.
+* The initial Neural Network animation, showcasing the architecture and the basic mathematical flow of data.
 * **[02_gradient_descent.py](./animations/02_gradient_descent.py)** *(Video: 01:36 - 02:07)*
-A visual representation of the Gradient Descent algorithm.
+* A visual representation of the Gradient Descent algorithm.
 * **[03_ill_conditioned_canyon.py](./animations/03_ill_conditioned_canyon.py)** *(Video: 03:49 - 03:55)*
-Visualization of an ill-conditioned optimization case, illustrating the "zigzagging" problem of standard Gradient Descent.
+* Visualization of an ill-conditioned optimization case, illustrating the "zigzagging" problem of standard Gradient Descent.
 * **[04_adam_optimizer.py](./animations/04_adam_optimizer.py)** *(Video: 03:57 - 04:02)*
-Resolution of the ill-conditioned canyon problem using the Adam Optimizer, showing its momentum-based smooth trajectory.
+* Resolution of the ill-conditioned canyon problem using the Adam Optimizer, showing its momentum-based smooth trajectory.
 * **[05_parabola_interpolation.py](./animations/05_parabola_interpolation.py)** *(Video: 04:10 - 04:17)*
-Interpolation of a parabola.
+* Interpolation of a parabola.
 
 ## How to Use
 1. **Install Manim:**
